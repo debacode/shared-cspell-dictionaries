@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.2.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.1.0..v1.2.0) - 2025-11-12
+
+### ✨ New Features & Improvements
+
+- upstream words from strapi-helm-chart - ([92ed9e7](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/92ed9e748e8a1ad4aa8d858223720c931ff7a60f)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 1 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 1 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+---
 ## [1.1.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.0.0..v1.1.0) - 2025-11-12
 
 ### ✨ New Features & Improvements
