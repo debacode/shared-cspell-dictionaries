@@ -1,0 +1,20 @@
+include:
+  - project: tools/shared-pipelines
+    ref: v4.0.1
+    file: /base/base.yaml
+
+# Analysis - general
+analysis-spell-check:
+  extends: .analysis-base-spell-check
+
+analysis-security:
+  extends: .analysis-base-security
+
+# Release
+release-prepare-mr:
+  extends:
+    - .release-prepare-mr
+
+release-tag:
+  extends:
+    - .release-tag

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json
+
+version: "0.2"
+language: "en"
+useGitignore: true
+enableGlobDot: false
+dictionaries:
+  - "debacode"
+  - "debacode-tools"
+  - "debacode-dart"
+  - "debacode-dart-tools"
+  - "debacode-nodejs"
+  - "debacode-nodejs-tools"
+dictionaryDefinitions:
+  # Base
+  - name: "debacode"
+    path: base/misc.txt
+  - name: "debacode-tools"
+    path: base/tools.txt
+  # Dart
+  - name: "debacode-dart"
+    path: dart/language.txt
+  - name: "debacode-dart-tools"
+    path: dart/tools.txt
+  # Nodejs
+  - name: "debacode-nodejs"
+    path: nodejs/language.txt
+  - name: "debacode-nodejs-tools"
+    path: nodejs/tools.txt
