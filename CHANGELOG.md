@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.1.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.0.0..v1.1.0) - 2025-11-12
+
+### ✨ New Features & Improvements
+
+- upstream words from shared_pipelines - ([91bb10a](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/91bb10a40da61ddb5077c0c3376711cb4a9fd9b9)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 1 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 1 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+---
 ## [1.0.0] - 2025-11-12
 
 ### ✨ New Features & Improvements
@@ -12,7 +27,8 @@ All notable changes to this project will be documented in this file. See [conven
 #### New Contributors ❤️
 
 
-* @Nikolas Rimikis made their first contribution 
+* @Nikolas Rimikis made their first contribution  in !1
+* @Release Magician 🪄 made their first contribution 
 
 #### Statistics
 - 1 commit(s) contributed to the release.
