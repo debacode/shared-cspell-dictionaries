@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.4.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.3.0..v1.4.0) - 2025-11-12
+
+### ✨ New Features & Improvements
+
+- upstream words from biome-configs - ([8539db1](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/8539db1ff562cdb5ddffb2b2311b68c3c36c6481)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 1 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 1 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+---
 ## [1.3.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.2.0..v1.3.0) - 2025-11-12
 
 ### ✨ New Features & Improvements
