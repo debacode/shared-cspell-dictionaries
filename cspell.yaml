@@ -11,19 +11,26 @@ dictionaries:
   - "debacode-dart-tools"
   - "debacode-nodejs"
   - "debacode-nodejs-tools"
+  - "debacode-rust"
+  - "debacode-rust-tools"
 dictionaryDefinitions:
-  # Base
+  # base
   - name: "debacode"
     path: base/misc.txt
   - name: "debacode-tools"
     path: base/tools.txt
-  # Dart
+  # dart
   - name: "debacode-dart"
     path: dart/language.txt
   - name: "debacode-dart-tools"
     path: dart/tools.txt
-  # Nodejs
+  # nodejs
   - name: "debacode-nodejs"
     path: nodejs/language.txt
   - name: "debacode-nodejs-tools"
     path: nodejs/tools.txt
+  # rust
+  - name: "debacode-rust"
+    path: rust/language.txt
+  - name: "debacode-rust-tools"
+    path: rust/tools.txt
