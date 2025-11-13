@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.6.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.5.0..v1.6.0) - 2025-11-13
+
+### ✨ New Features & Improvements
+
+- upstream words from dart_packages - ([46725f5](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/46725f554f3b000752f88e6dec11fe3e30ec11e2)) - @Nikolas Rimikis
+
+### 🔧 Chores
+
+- Configure Renovate - ([02b270b](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/02b270ba43e5a7ef4fad7d91eac082b864419d8e)) - @Renovate Bot
+
+#### New Contributors ❤️
+
+
+* @Renovate Bot made their first contribution 
+
+#### Statistics
+- 2 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 2 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+- 1 day(s) passed between releases.
+---
 ## [1.5.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.4.0..v1.5.0) - 2025-11-12
 
 ### ✨ New Features & Improvements
