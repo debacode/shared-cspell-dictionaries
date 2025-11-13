@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>debacode/renovate-configs//languages/default#v3.0.0",
+    "schedule:earlyMondays"
+  ],
+  "assignees": [
+    "@nikolas.rimikis"
+  ]
+}
