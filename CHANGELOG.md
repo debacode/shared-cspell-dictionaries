@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.7.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.6.0..v1.7.0) - 2025-11-14
+
+### ✨ New Features & Improvements
+
+- upstream words from react-native-template - ([e20c930](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/e20c9305013c9b00ac9c6eb1c71f5b3430ac51d9)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 1 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 1 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+- 1 day(s) passed between releases.
+---
 ## [1.6.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.5.0..v1.6.0) - 2025-11-13
 
 ### ✨ New Features & Improvements
