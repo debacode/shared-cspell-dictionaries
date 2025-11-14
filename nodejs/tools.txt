@@ -2,3 +2,4 @@ gqltada
 urql
 Pnpmfile
 Filenaming
+directus
