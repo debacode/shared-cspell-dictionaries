@@ -1,5 +1,7 @@
-gqltada
-urql
-Pnpmfile
-Filenaming
 directus
+Filenaming
+gqltada
+nextjs
+Pnpmfile
+stringbool
+urql
