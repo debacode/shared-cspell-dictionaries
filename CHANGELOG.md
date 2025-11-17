@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.10.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.9.1..v1.10.0) - 2025-11-17
+
+### ✨ New Features & Improvements
+
+- upstream words from ww-website - ([e8ab2ae](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/e8ab2aef78add5f782bec14554d5241b2edf455f)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 1 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 1 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+---
 ## [1.9.1](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.9.0..v1.9.1) - 2025-11-17
 
 ### 🔧 Chores
