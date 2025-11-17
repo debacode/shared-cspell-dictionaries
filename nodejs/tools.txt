@@ -1,7 +1,13 @@
+botid
+daygrid
 directus
+embla
 Filenaming
+fullcalendar
 gqltada
 nextjs
 Pnpmfile
+shadcn
 stringbool
 urql
+vidstack
