@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.11.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.10.0..v1.11.0) - 2025-11-17
+
+### ✨ New Features & Improvements
+
+- upstream words from weltwaerts-directus-sync - ([e9e87ad](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/e9e87ad2c6c321b9808578b88067c4ebca6cc0a4)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 1 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 1 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+---
 ## [1.10.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.9.1..v1.10.0) - 2025-11-17
 
 ### ✨ New Features & Improvements
