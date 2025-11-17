@@ -8,3 +8,4 @@ opengraph
 precache
 rimikis
 tomposer
+weltwaerts

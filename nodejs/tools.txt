@@ -5,8 +5,10 @@ embla
 Filenaming
 fullcalendar
 gqltada
+luxon
 nextjs
 Pnpmfile
+qwik
 shadcn
 stringbool
 urql
