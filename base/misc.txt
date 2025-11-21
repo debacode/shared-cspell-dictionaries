@@ -9,3 +9,4 @@ precache
 rimikis
 tomposer
 weltwaerts
+wplusk
