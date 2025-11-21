@@ -1,8 +1,15 @@
+apcu
+bitnami
+bitnamilegacy
 blurhash
 blurhasher
 blurhashes
+civi
+civicrm
 dockerhub
 netcup
+packagist
 strapi
 trixie
+vhosts
 worktree
