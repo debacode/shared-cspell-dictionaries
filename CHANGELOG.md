@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.12.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.11.0..v1.12.0) - 2025-11-21
+
+### ✨ New Features & Improvements
+
+- upstream words from wplusk - ([39cc593](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/39cc593890ac8fabac7c82793248c63ec1550437)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 1 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 1 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+- 4 day(s) passed between releases.
+---
 ## [1.11.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.10.0..v1.11.0) - 2025-11-17
 
 ### ✨ New Features & Improvements
