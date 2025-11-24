@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>debacode/renovate-configs//languages/default#v3.1.0",
+    "github>debacode/renovate-configs//languages/default#v3.3.0",
     "schedule:earlyMondays"
   ],
   "assignees": [
