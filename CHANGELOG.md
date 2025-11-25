@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.13.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.12.0..v1.13.0) - 2025-11-25
+
+### 🔧 Chores
+
+- **(deps)** update dependency debacode/renovate-configs to v3.3.0 - ([e3889d1](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/e3889d1465483206f459b3d52253b1e4bb89e3dc)) - @renovate
+- **(deps)** update dependency tools/shared-pipelines to v4.5.0 - ([51e3a37](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/51e3a37c91cca942a6098f9dd9c89b5624fe3d51)) - @renovate
+
+### ✨ New Features & Improvements
+
+- allow rickroll - ([e6f2e6f](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/e6f2e6feea5fa6a11fda7c93eb9337bd5fb2b469)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 3 commit(s) contributed to the release.
+- 1 day(s) passed between the first and last commit.
+- 3 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+- 4 day(s) passed between releases.
+---
 ## [1.12.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.11.0..v1.12.0) - 2025-11-21
 
 ### ✨ New Features & Improvements
