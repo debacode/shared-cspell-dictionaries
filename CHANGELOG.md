@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.14.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.13.0..v1.14.0) - 2025-12-08
+
+### 🔧 Chores
+
+- **(deps)** update dependency tools/shared-pipelines to v4.5.2 - ([766a2a7](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/766a2a78b528b6a6984067ed905d636364ec18f5)) - @renovate
+- **(deps)** update dependency debacode/renovate-configs to v3.4.0 - ([d8caa13](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/d8caa13e7ca7c5888750c87f186883a5c481e75f)) - @renovate
+
+### ✨ New Features & Improvements
+
+- allow word `vercel` - ([37208ac](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/37208ac143a2e65d60a835c88237653de60e3b90)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 3 commit(s) contributed to the release.
+- 7 day(s) passed between the first and last commit.
+- 3 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+- 13 day(s) passed between releases.
+---
 ## [1.13.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.12.0..v1.13.0) - 2025-11-25
 
 ### 🔧 Chores
