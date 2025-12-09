@@ -6,6 +6,7 @@ blurhasher
 blurhashes
 civi
 civicrm
+CODEOWNERS
 dockerhub
 netcup
 packagist
