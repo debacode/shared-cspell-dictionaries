@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.16.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.15.0..v1.16.0) - 2025-12-09
+
+### 🔧 Chores
+
+- **(deps)** update dependency tools/shared-pipelines to v4.5.3 - ([1b52e23](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/1b52e23e90abd3a83fffc5e72194a73961bf812f)) - @renovate
+
+### ✨ New Features & Improvements
+
+- add jsonata - ([715a801](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/715a801dcbcae56b5af30636eac9bb33e0853a16)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 2 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 2 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+---
 ## [1.15.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.14.0..v1.15.0) - 2025-12-09
 
 ### ✨ New Features & Improvements
