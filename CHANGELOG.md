@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.15.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.14.0..v1.15.0) - 2025-12-09
+
+### ✨ New Features & Improvements
+
+- add codeowners - ([5e9e606](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/commit/5e9e606fbedf2797eb0efc2a9e815fba1a9c512e)) - @Nikolas Rimikis
+
+
+
+
+#### Statistics
+- 1 commit(s) contributed to the release.
+- 0 day(s) passed between the first and last commit.
+- 1 commit(s) parsed as conventional.
+- 0 linked issue(s) detected in commits.
+- 1 day(s) passed between releases.
+---
 ## [1.14.0](https://gitlab.debacode.de/tools/shared-cspell-dictionaries/compare/v1.13.0..v1.14.0) - 2025-12-08
 
 ### 🔧 Chores
