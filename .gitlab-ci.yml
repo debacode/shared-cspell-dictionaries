@@ -1,6 +1,6 @@
 include:
   - project: tools/shared-pipelines
-    ref: v4.5.4
+    ref: v4.5.5
     file: /base/base.yaml
 
 # Analysis - general
